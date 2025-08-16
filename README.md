@@ -1,5 +1,12 @@
 ## Hi there 👋
 
+### About me: 
+
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=DzC-0i&show_icons=true">
+
+* A boy who loves history and technology
+* Want to be a full-stack developer
+
 <!--
 **DzC-0i/DzC-0i** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
