@@ -1,11 +1,10 @@
 ## Hi there 👋
 
-### About me: 
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=DzC-0i&count_private=true&line_height=27&show_icons=true">
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=DzC-0i&show_icons=true">
+*A boy who loves history and technology*
 
-* A boy who loves history and technology
-* Want to be a full-stack developer
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DzC-0i&layout=compact&show_icons=true">
 
 <!--
 **DzC-0i/DzC-0i** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
