@@ -11,12 +11,12 @@
   <img 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=DzC-0i&layout=compact&show_icons=true" 
     alt="Top Languages" 
-    style="width: 36.5%; height: auto; object-fit: contain;"
+    style="width: 42%; height: auto; object-fit: contain;"
   >
   <img 
     src="https://github-readme-stats.vercel.app/api?username=DzC-0i&layout=compact&show_icons=true" 
     alt="GitHub Stats" 
-    style="width: 48%; height: auto; object-fit: contain;"
+    style="width: 55%; height: auto; object-fit: contain;"
   >
 </div>
 
