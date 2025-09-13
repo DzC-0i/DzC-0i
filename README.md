@@ -7,28 +7,17 @@
 </p>
 
 
-<div style="display: flex; align-items: flex-start; gap: 15px; width: 100%;">
-  <!-- 左侧容器：占比40%，内部两张图纵向排列 -->
-  <div style="display: flex; flex-direction: column; gap: 15px; width: 40%;">
-    <img 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=DzC-0i&layout=compact&show_icons=true" 
-      alt="Top Languages" 
-      style="width: 80%; height: auto; object-fit: contain;"  <!-- 填满容器，保持比例 -->
-    >
-    <img 
-      src="https://github-readme-stats.vercel.app/api?username=DzC-0i&layout=compact&show_icons=true" 
-      alt="GitHub Stats" 
-      style="width: 100%; height: auto; object-fit: contain;"
-    >
-  </div>
-  <!-- 右侧容器：占比60%，单张图 -->
-  <div style="width: 60%;">
-    <img 
-      src="https://github.com/DzC-0i/DzC-0i/raw/main/code.gif?raw=true" 
-      alt="Code Gif" 
-      style="width: 100%; height: auto; object-fit: contain;"
-    >
-  </div>
+<div style="display: flex; gap: 15px; width: 100%;">
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=DzC-0i&layout=compact&show_icons=true" 
+    alt="Top Languages" 
+    style="width: 36.5%; height: auto; object-fit: contain;"
+  >
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=DzC-0i&layout=compact&show_icons=true" 
+    alt="GitHub Stats" 
+    style="width: 48%; height: auto; object-fit: contain;"
+  >
 </div>
 
 
